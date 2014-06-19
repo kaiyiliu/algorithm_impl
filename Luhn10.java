@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.FileReader;
 
-public class HelloWorld{
+public class Luhn10{
 
      public static int luhn(int[] n) {
          int sum = 0;
